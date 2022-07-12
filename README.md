@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## TAREFAS - Criando componentes e construindo o projeto
+
+#TODO  Criar uma pasta com o nome de “courses” dentro da pasta “app” , nessa pasta criaremos todos os componentes com relação a nossa aplicação.
+#TODO  Criar um arquivo chamado “course-list.component.ts” dentro da pasta “courses”.
+#TODO  Dentro desse arquivo, criar uma classe com o nome de “CourseListComponent”, essa classe deve ser pública para consumo de outros arquivos (usar o export para isso).
+
+
+
