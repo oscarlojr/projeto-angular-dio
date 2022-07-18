@@ -48,30 +48,11 @@ export class CourseListComponent implements OnInit {
     this.courses = [
       {
         id: 1,
-<<<<<<< HEAD
-        name: 'Javascript',
-        imageUrl: '',
-=======
         name: 'Angular: Forms',
         imageUrl: '/assets/images/forms.png',
->>>>>>> b7cbe07cdbfbc4d7791826893cf4335b5037ef81
         price: 99.99,
         code: 'XLM-987',
         duration: 120,
-<<<<<<< HEAD
-        rating: 5,
-        releaseDate: '2022-07-01',
-      },
-      {
-        id: 2,
-        name: 'PHP',
-        imageUrl: '',
-        price: 50.99,
-        code: 'XLM-988',
-        duration: 60,
-        rating: 4.5,
-        releaseDate: '2022-01-22',
-=======
         rating: 4.5,
         releaseDate: 'December, 2, 2019',
       },
@@ -84,7 +65,6 @@ export class CourseListComponent implements OnInit {
         duration: 90,
         rating: 5.0,
         releaseDate: 'December, 21, 2020',
->>>>>>> b7cbe07cdbfbc4d7791826893cf4335b5037ef81
       },
       {
         id: 3,
