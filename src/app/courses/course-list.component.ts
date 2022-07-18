@@ -65,16 +65,6 @@ export class CourseListComponent implements OnInit {
         duration: 90,
         rating: 5.0,
         releaseDate: 'December, 21, 2020',
-      },
-      {
-        id: 3,
-        name: 'GO',
-        imageUrl: '',
-        price: 70.99,
-        code: 'XLM-989',
-        duration: 85,
-        rating: 4.7,
-        releaseDate: '2021-09-15',
       }
     ]
   }
