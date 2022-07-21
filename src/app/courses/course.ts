@@ -18,4 +18,5 @@ export class Course {
   duration!: number;
   rating!: number;
   releaseDate!: string;
+  description!: string;
 }
